@@ -15,7 +15,7 @@
 		
 	window.addEventListener("keydown", event => {
 
-     if ( event.key == "v") {
+     if ( event.key == "F") {
 
      	document.body.style.background = "blue";
 
